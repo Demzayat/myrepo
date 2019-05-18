@@ -15,3 +15,4 @@ git push
 desde la terminal del RStudio
 
 a ver... vamos por el tercero... y el tercero...
+y ahora desde el boton git
