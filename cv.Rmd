@@ -1,0 +1,628 @@
+---
+title: "Demián Zayat"
+author: Demián Zayat
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+- Charlone 30 -CABA
+- <i class="fa fa-phone"></i> +11.4539.0383
+- <i class="fa fa-envelope"></i> demian.zayat@gmail.com
+- <i class="fa fa-github"></i> [github.com/demzayat](https://github.com/demzayat)
+- <i class="fa fa-globe-americas"></i> [www.antidiscriminacion.org](www.antidiscriminacion.org)
+
+
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Última actualización `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Demián Zayat {#title}
+--------------------------------------------------------------------------------
+
+**Abogado que defiende Derechos Humanos**
+
+**Investigador y Académico. Programo en R**
+
+
+
+
+
+Educación {data-icon=university data-concise=true}
+--------------------------------------------------------------------------------
+
+### Stanford Law School
+
+Master en Investigación Sociojurídica. J.S.M. Stanford Program on International Legal Studies
+
+Stanford, California
+
+2009
+
+**Tesis presentada** “Between merit and politics. The selection of federal judges in Argentina”.Especialización en Derecho Constitucional y Derechos Humanos
+
+
+### Facultad de Derecho de la Universidad de Palermo
+
+Maestría en Derecho Constitucional y Derechos Humanos. Promedio 9,33.
+
+Buenos Aires, Argentina
+
+2007
+
+**Honores**: Linkage Program 2003, Yale Law School, Febrero 2003.
+
+**Actividades**: Revista Jurídica de la Universidad de Palermo, redactor años 2005 a 2013.
+
+### Southwestern Univeristy School of Law
+
+Genaro Carrió Visitor Scholar
+
+Los Ángeles, California
+
+2004
+
+::: aside
+Ganador de la Beca Antorchas - Fulbright 
+:::
+
+
+### Facultad de Derecho de la Universidad de Buenos Aires
+
+Abogado
+
+Ciudad de Buenos Aires, Argentina
+
+1996-2000
+
+Promedio 7,90/10. Rankeado 172 de 2.430 (top 7%)
+**Actividades**: Revista jurídica Lecciones y Ensayos, redactor. Marzo 1999 – Diciembre 2000.
+
+### Colegio Nacional de Buenos Aires
+
+Bachiller
+
+Ciudad de Buenos Aires, Argentina
+
+1990-1994
+
+
+
+
+Docencia Universitaria {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Escuela de Posgrado de la Facultad de Derecho de la Universidad de Palermo
+
+Maestría en Derecho Constitucional y Derechos Humanos
+
+Ciudad de Buenos Aires, Argentina
+
+2010-Actualidad
+
+- Estudios Empíricos sobre Desigualdad
+- Derecho Antidiscriminatorio y litigio estratégico
+
+
+
+### Facultad de Derecho de la Universidad de Palermo
+
+Profesor titular IV
+
+Ciudad de Buenos Aires, Argentina
+
+2002-2017
+
+- Derecho Constituciona 1 (2002 - 2017)
+- Derecho Constitucional 2 (2003)
+- Sistemas Jurídicos Comparados (2003, 2011, 2012)
+- Práctica Profesional IV (2013)
+
+::: aside
+Beca Incentivo a la investigación docente 2007
+:::
+
+###  Facultad de Derecho de la Universidad de Buenos Aires
+
+JTP por concurso
+
+Ciudad de Buenos Aires, Argentina
+
+2001 - 2004
+
+Elementos de Derecho Constitucional 
+
+
+Experiencia profesional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Defensoría General de la Ciudad Autónoma de Buenos Aires 
+
+Secretaría Letrada contra la Violencia Institucional
+
+Ciudad de Buenos Aires, Argentina
+
+2017 – Actualidad 
+
+
+Secretario. Coordinador del Area de Investigación Estadística.Elaboración de informes periódicos y monitoreo de la situación de violencia institucional en la Ciudad de Buenos Aires. Encargado del banco de datos de la violencia institucional.
+
+### Defensoría General de la Ciudad Autónoma de Buenos Aires
+
+Programa de Derecho Internacional de los Derechos Humanos. 
+
+Ciudad de Buenos Aires, Argentina
+
+Nov 2015 – Dic 2016 
+
+Responsable del Programa. Elaboración de estrategias de incidencia y litigio ante instancias internacionales, CIDH y Sistema Universal. Elaboración y presentación de informes alternativos ante Comités de Naciones Unidas, y cartas a Relatores Especiales, en los ejes temáticos de la Defensoría General de la Ciudad (derechos sociales y derecho penal). Realización de investigaciones y recopilación de datos propios de la Defensoría para los informes. Organización de cursos de capacitación para los Defensores y funcionarios, en el sistema internacional o regional de protección de derechos humanos.
+ 
+ 
+### Defensoría General de la Ciudad Autónoma de Buenos Aires
+
+Defensoría General Adjunta en lo Contencioso Administrativo y Tributario. 
+
+Ciudad de Buenos Aires, Argentina
+
+Sept. 2012 – Nov 2015 
+
+Secretario. Recursos directos ante el Tribunal Superior de Justicia y Recursos Federales ante la Corte Suprema de Justicia de la Nación. Litigio en causas colectivas e individuales. Recursos en temática de derecho a la vivienda, salud, educación y medio ambiente.
+
+
+### Defensoría General de la Ciudad Autónoma de Buenos Aires
+
+Defensoría ante los Juzgados de Primera Instancia en lo Contencioso Administrativo y Tributario Nº 4. 
+
+Ciudad de Buenos Aires, Argentina
+
+Julio 2011- Agosto 2012
+
+Secretario de primera instancia. Litigio en causas de barrios informales, problemas habitacionales, subsidios alimentarios, etc. Responsable a cargo de promoción y trámite de todas las causas judiciales, de atención a consultantes y manejo del personal de la Defensoría. 
+
+### Defensoría General de la Ciudad Autónoma de Buenos Aires
+
+Asesor del Secretario de Planificación Estratégica y Acceso a la Justicia
+
+Ciudad de Buenos Aires, Argentina
+
+2009 - 2011
+
+Investigaciones sobre problemas estructurales de derechos sociales en la Ciudad de Buenos Aires, elaboración de proyectos de acciones o estrategias judiciales para remediar los problemas de acceso a la justicia y acceso a la vivienda, elaboración de propuestas de reforma al Ministerio Público de la Defensa.
+
+### Centro de Estudios Legales y Sociales (CELS)
+Investigador y abogado Senior
+
+Ciudad de Buenos Aires, Argentina
+
+Marzo 2005 – Agosto 2008
+
+Abogado del programa de Justicia Democrática. Investigador senior sobre reforma judicial y democratización de la justicia. Monitoreo y propuestas de reformas en procesos de selección e impugnación de jueces y funcionarios judiciales y del ministerio público. Litigio en casos testigos sobre independencia de jueces, fiscales y defensores. Coautor de varios capítulos de los informes anuales del año 2005, 2007 y 2008.
+
+### Asesor legislativo de la Diputada Nacional Nilda Garré
+
+Asesor Legislativo
+
+Ciudad de Buenos Aires, Argentina
+
+Dic 2003 – Ago 2004
+
+Redacción y discusión de proyectos de ley para las comisiones de Justicia, Juicio político y Asuntos Constitucionales. Asesor en el Juicio Político a los jueces de la Corte Suprema.
+
+###	Asesor legislativo del Diputado Nacional Darío Alessandro
+
+Asesor Legislativo
+
+Ciudad de Buenos Aires
+
+May 2000 – Dic 2003
+
+Asesor en temas de sistema electoral, reforma política y transparencia política. Redacción de discursos y discusión de la posición del bloque oficialista en diversos temas.
+
+### Instituto de Estudios Comparados en Ciencias Penales y Sociales (INECIP)
+
+Investigador en el Centro de Estudios de Democracia y Estado de Derecho
+
+Ciudad de Buenos Aires
+
+2002-2003
+
+Investigación sobre el funcionamiento de los Consejos de la Magistratura en America Latina.
+
+
+Publicaciones {data-icon=file}
+--------------------------------------------------------------------------------
+### La discriminación en el mercado. 
+
+Ian Ayres y los estudios empíricos sobre desigualdad.
+
+Editorial Universidad de Palermo
+
+2013
+
+Colección de Ciencias Jurídicas, Biblioteca Yale – Palermo. 
+Demián Zayat (editor y traductor) 
+
+::: aside
+Libros
+:::
+
+### Principio de Igualdad en la Ciudad de Buenos Aires 
+Azrak (coord), Pensar la Ciudad 	
+
+Librería Editora Platense
+
+2018
+
+::: aside
+Capítulos de libros
+:::
+
+### Derechos de las personas migrantes en la Ciudad de Buenos Aires
+Azrak (coord), 	Pensar la Ciudad
+
+Librería Editora Platense
+
+2018
+
+### Nuevos mecanismos de participacion democrática
+Gargarella – Guidi (comp) Comentarios de la Constitucion de la Nación Argentina
+
+Abeledo Perrot, Buenos Aires
+
+2016
+
+### Derechos de las personas con discapacidad
+Gargarella – Guidi (comp), Comentarios de la Constitucion de la Nación Argentina
+
+Abeledo Perrot, Buenos Aires
+
+2016
+
+### El principio de igualdad. Razonabilidad, categorías sospechosas, trato desigual e impacto desproporcionado
+Elías – Grosman -  Legarre y Rivera (comp), Tratado de los  Derechos Constitucionales
+
+Abeledo Perrot, Buenos Aires
+
+2014
+
+### La participación de los afectados por los desalojos ante los tribunales
+Luciana Bercovich y Gustavo Maurino (coord), Los derechos sociales en la gran Buenos Aires
+
+Eudeba, Buenos Aires
+
+2013
+
+### Litigio estratégico y constitucionalismo popular. El caso del matrimonio igualitario en Argentina
+
+Ana Alterio y Roberto Ortega (coord) Constitucionalismo popular en Latinoamérica
+
+Ed. Porrua, México
+
+2013
+
+
+### Méritos y Política. La selección de jueces federales en Argentina
+Premio Formación Judicial 2009, Centro de Formación Judicial del Consejo de la Magistratura de la Ciudad de Buenos Aires
+
+Ediciones Jusbaires, EUDEBA
+
+2011
+
+Primer premio en el eje temático “Criterios de Selección de Jueces y Funcionarios”.
+
+### Mecanismos de participación ciudadana
+
+La Constitución en 2020, AA.VV. (comp)
+
+Ed. Siglo XXI
+
+2011
+
+### Hacia un 'Bicameralismo' en el Poder Judicial
+Teoría y Crítica del Derecho Constitucional, Roberto Gargarella (comp)
+
+Abeledo Perrot
+
+2008
+
+
+### El caso Patti y otra paradoja de la Democracia
+
+Teoría y Crítica del Derecho Constitucional, Roberto Gargarella (comp)
+
+Abeledo Perrot
+
+2008
+
+### Informe sobre el Consejo de la Magistratura en Argentina
+Revista Pena y Estado, Edición Especial
+
+Ediciones del Instituto, INECIP
+
+2003
+
+con Sebastian Tedeschi y otros.
+
+### Revista de Derecho de Familia Thomson Reuters N° 2017-V, mes de Octubre
+
+“Derecho a la identidad de género a personas trans y travestis en las cárceles de la provincia de Buenos Aires”
+
+La Ley AP/DOC/749/2017.
+
+NA
+
+
+:::aside
+Revistas Jurídicas
+:::
+
+### Revista Jurídica de la Universidad de Palermo
+“Pobres merecedores y no merecedores de ayuda estatal. La jurisprudencia delTribunal Superior de Justicia de la Ciudad en materia Habitacional analizada desde la Teoría de la Justicia de Rawls”,
+
+Año 15, Nro 1,
+
+mayo de 2017.
+
+
+### Revista AB, Abogacía, de la Universidad Nacional de José C. Paz, 
+““Y para (algunos de) los hombres del mundo que quieran habitar el suelo argentino”. El retroceso en la política migratoria”, 
+
+Nro 1. 
+
+Mayo de 2017.
+
+
+### Revista Igualdad, Autonomía  Personal y Derechos Sociales, de la Asociación de Derecho Administrativo de la Ciudad de Buenos Aires
+
+“Voto del juez Demián Zayat en el fallo ‘Bara Sakho’ del Tribunal Superior de Justicia de la Ciudad de Buenos Aires”
+
+sección En los zapatos de… 
+
+Abril de 2016. 
+
+
+### Revista La Ley
+Nota a fallo CSJN “Sisnero”, Hacia un definido derecho antidiscriminatorio
+
+Diario del 30-06-14
+
+### Revista de Derecho Penal, Ediciones INFOJUS, Ministerio de Justicia de la Nación
+“La elección popular de los consejeros de la Magistratura, la reforma legal y el fallo 'Rizzo' de la Corte Suprema”
+
+Año 2 Nro. 6
+
+Dic 2013
+
+### Revista Institucional de la Defensa Pública de la Ciudad Autónoma de Buenos Aires
+“El impacto de Quisberth Castro en la jurisprudencia de la Cámara Contencioso Administrativo y Tributario de la Ciudad de Buenos Aires. Un análisis empírico”
+
+Nº 4 
+
+Mayo de 2013
+
+### Revista Argentina de Teoría Jurídica, Escuela de Derecho Universidad Torcuato Di Tella, 
+“Los pobres en el nuevo código civil”, 
+
+Volumen 13 
+
+Ago 2012
+
+Publicado por Siglo XXI, 2014.
+
+### Revista Institucional de la Defensa Pública de la Ciudad Autónoma de Buenos Aires
+“El derecho de defensa en los casos de usurpaciones en la Ciudad de Buenos Aires: un estudio empírico”
+
+Nº 1
+
+Marzo 2011
+
+con Victoria Ricciardi
+
+### Revista de Derecho Público de la Universidad de los Andes, Colombia
+
+“Argentina: La pelea por la Composición del Consejo de la Magistratura”
+
+Nº 23
+
+Sept 2009
+
+### Revista Jurídica de la Universidad de Palermo
+
+“El caso Patti y otra paradoja de la democracia”
+
+N° 2
+
+2006
+
+Dio inicio a un debate de cinco trabajos.
+
+### Revista Más Derecho, 
+“Igualdad en el acceso a la educación. Nota al fallo 'Gonzalez de Delgado c. Universidad de Córdoba'”
+
+N° 4
+
+2004
+
+### Revista Lecciones y Ensayos, Universidad de Buenos Aires
+
+“Aspectos fácticos en el acceso a la Justicia”
+
+N° 76
+
+2001
+
+### Revista Lecciones y Ensayos, Universidad de Buenos Aires
+
+“Respecto del derecho de protección judicial”
+
+N° 75
+
+2000
+
+
+### "Independencia para una justicia democrática”
+Informe 2008 sobre la Situación de los Derechos Humanos en Argentina, CELS
+
+Buenos Aires, Argentina
+
+2009
+
+con Paula Litvachky y Anabella Museri
+
+::: aside
+Otras publicaciones
+:::
+
+
+### “El acceso a la justicia y el papel de la Defensa Pública en la promoción de derechos sociales. Una mirada sobre el derecho a la vivienda en la Ciudad de Buenos Aires”
+
+Informe 2008 sobre la Situación de los Derechos Humanos en Argentina, CELS
+
+Buenos Aires, Argentina
+
+2009
+
+con Diego Morales, Gabriela Kletzer, Paula Litvachky, Anabella Museri, Pilar Arcidiácono y Laura Royo
+
+
+
+### “Procesos de cambios en la justicia Argentina: Hacia un nuevo modelo de la Corte Suprema y el futuro del Consejo de la Magistratura”
+
+Informe 2007 sobre la Situación de los Derechos Humanos en Argentina, CELS
+
+Buenos Aires, Argentina
+
+2008
+
+con Paula Litvachky
+
+### "Crisis de la justicia provincial: entre la afectación de la independencia y la negación de derechos” 
+Informe 2007, CELS
+
+Buenos Aires, Argentina
+
+2008
+
+con Paula Litvachky
+
+### “Los mecanismos de impugnación por hechos del pasado. El proceso Patti” 
+
+Informe 2007, CELS
+
+Buenos Aires, Argentina
+
+2008
+
+con Diego Morales y Facundo Capurro
+
+
+### “Nuevos aires y viejos privilegios en el sistema judicial” 
+Informe 2005 de la Situación de los Derechos Humanos en Argentina, CELS
+
+Siglo XXI, Buenos Aires, Argentina
+
+2005
+
+con Paula Litvachky y Andrea Pochak
+
+### “Dos casos críticos de justicia en las provincias”
+Informe 2005 de la situación de los Derechos Humanos en Argentina, CELS
+
+Siglo XXI, Buenos Aires, Argentina
+
+2005
+
+con Andrea Pochak
+
+### “El debate en torno a la prisión preventiva y la impunidad” 
+Informe 2005 de la situación de los Derechos Humanos en Argentina, CELS
+
+Siglo XXI, Buenos Aires, Argentina
+
+2005
+
+con Paula Litvachky
+
+
+### “Dossier: Iniciativas actuales para mejorar la independencia judicial en América: Capítulo de Argentina”
+CEJA, Sistemas Judiciales
+
+N°4, Vol 2
+
+2002
+
+
+Dirección de Tesis de Maestria
+-------------------------------------------------------------------
+
+### Casadiegos Martín, “La orientación sexual como criterio de exclusión para la donación de sangre en Colombia”
+
+Universidad de Palermo 
+
+Nov 2014
+
+### Bottini Bulit, Alejandro “Medidas de acción positiva”
+
+Universidad de Palermo 
+
+2015
+
+### Diego Galeano, “El derecho de huelga”
+
+Universidad de Palermo 
+
+2019
+
+
+
+Jurado de Tesis de Maestria
+-------------------------------------------------------------------
+
+### Fernández Valle, Mariano “Colectivos LGTBI acceso a derechos y matrimonio igualitario. Avances, tensiones y desafíos"
+
+Universidad de Palermo
+
+2012
+
+### Cánepa, Guillermo Patricio, “La profundización de la crisis habitacional en la Ciudad de Buenos Aires. La deuda pendiente de la política pública”
+
+Universidad de Palermo
+
+2015
+
+### Ricardo Porto, “Tres visiones regulatorias de la libertad de expresión y el derecho a la información en el derecho constitucional latinoamericano”
+
+Universidad de Palermo
+
+2016
+
+### Mirep Corona, Bachir “Poder de reforma constitucional del congreso y su control de constitucionalidad: alcances y límites en el sistema jurídico colombiano”
+
+Universidad de Palermo
+
+2018
+
+
+### Verónica Marcó, "Necesidad de Reforma del proceso de amparo federal para adaptarlo a las necesidadesl del sistema constitucional y convencional argentino"
+
+Universidad de Palermo
+
+2018
+
