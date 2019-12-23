@@ -103,6 +103,16 @@ Ciudad de Buenos Aires, Argentina
 
 1990-1994
 
+Cursos de Posgrado {data-icon=university data-concise=true}
+--------------------------------------------------------------------------------
+
+### Big Data e Inteligencia Territorial
+
+Curso de posgrado de 135 horas cátedra
+
+Flaco Argentina
+
+2019
 
 
 
@@ -115,7 +125,7 @@ Maestría en Derecho Constitucional y Derechos Humanos
 
 Ciudad de Buenos Aires, Argentina
 
-2010-Actualidad
+2010-2019
 
 - Estudios Empíricos sobre Desigualdad
 - Derecho Antidiscriminatorio y litigio estratégico
@@ -141,11 +151,10 @@ Beca Incentivo a la investigación docente 2007
 
 ###  Facultad de Derecho de la Universidad de Buenos Aires
 
-JTP por concurso
+JTP por concurso (Res CD 1713/2019)
 
 Ciudad de Buenos Aires, Argentina
 
-2001 - 2004
 
 Elementos de Derecho Constitucional 
 
@@ -263,6 +272,21 @@ Demián Zayat (editor y traductor)
 Libros
 :::
 
+### Constitutución de la Nación Argentina Comentada
+Gargarella - Guidi (directores)
+
+Comentario art. 75 inciso 23, 39 y 40
+
+Ed. Thompson La Ley
+
+2019
+
+
+::: aside
+Capítulos de libros
+:::
+
+
 ### Principio de Igualdad en la Ciudad de Buenos Aires 
 Azrak (coord), Pensar la Ciudad 	
 
@@ -270,9 +294,6 @@ Librería Editora Platense
 
 2018
 
-::: aside
-Capítulos de libros
-:::
 
 ### Derechos de las personas migrantes en la Ciudad de Buenos Aires
 Azrak (coord), 	Pensar la Ciudad
