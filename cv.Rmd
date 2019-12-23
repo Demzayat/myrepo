@@ -108,11 +108,13 @@ Cursos de Posgrado {data-icon=university data-concise=true}
 
 ### Big Data e Inteligencia Territorial
 
-Curso de posgrado de 135 horas cátedra
+Flacso Argentina, Curso de posgrado de 135 horas cátedra
 
-Flaco Argentina
+Ciudad de Buenos Aires, Argentina
 
 2019
+
+
 
 
 
@@ -276,8 +278,6 @@ Libros
 Gargarella - Guidi (directores)
 
 Comentario art. 75 inciso 23, 39 y 40
-
-Ed. Thompson La Ley
 
 2019
 
