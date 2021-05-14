@@ -155,13 +155,13 @@ Experiencia profesional {data-icon=suitcase}
 
 ### Instituto Nacional contra la Discriminación, el Racismo y la Xenofobia (INADI)
 
-Director Nacional de Asistencia a la Víctima
+Director de Asistencia a la Víctima
 
 Ciudad de Buenos Aires, Argentina
 
 2020 – Actualidad 
 
- A cargo de la Dirección de Asistencia a la Víctima, encargada de la recepción, evaluación y dictámenes sobre las denuncias por discriminación que presenten las personas ante el INADI.
+A cargo de la Dirección de Asistencia a la Víctima, encargada de la recepción, evaluación y dictámenes sobre las denuncias por discriminación que presenten las personas ante el INADI.
 
 
 ### Defensoría General de la Ciudad Autónoma de Buenos Aires 
@@ -274,6 +274,18 @@ Demián Zayat (editor y traductor)
 Libros
 :::
 
+### Niñez y adolescencia en contexto de migración: hacia una perspectiva integral de derechos
+
+Silvia Fernández (dir), Tratado de derechos de niñas, niños y adolescentes, 2da. edición actualizada y ampliada- Tomo 1.
+
+Abeledo Perrot
+
+2021
+
+::: aside
+Capítulos de libros
+:::
+
 ### Un nuevo giro en la política migratoria que pone en riesgo la vigencia de los derechos de  niños, niñas y adolescentes.
 
 Herrero Marisa y otros (dirs), Avances, críticas y desafíos de los derechos humanos de niños, niñas y adolescentes a 30 años de la CDN".
@@ -282,9 +294,21 @@ Ediar Editora
 
 2019
 
-::: aside
-Capítulos de libros
-:::
+### Comentario Art. 75 inciso 23
+
+Gargarella- Guidi (dirs), Constitución de la Nación Argentina Comentada, Tomo 2
+
+Abeledo Perrot
+
+2019
+
+### Comentario Art. 39 y 40
+
+Gargarella- Guidi (dirs), Constitución de la Nación Argentina Comentada, Tomo 1
+
+Abeledo Perrot
+
+2019
 
 ### Principio de Igualdad en la Ciudad de Buenos Aires 
 
