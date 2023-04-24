@@ -13,7 +13,7 @@ Aside
 
 Contacto {#contact}
 --------------------------------------------------------------------------------
--  CABA
+- Charlone 30 -CABA
 - <i class="fa fa-phone"></i> +11.4539.0383
 - <i class="fa fa-envelope"></i> demian.zayat@gmail.com
 - <i class="fa fa-github"></i> [github.com/demzayat](https://github.com/demzayat)
@@ -121,7 +121,6 @@ Ciudad de Buenos Aires, Argentina
 - Derecho Antidiscriminatorio y litigio estratégico
 
 
-
 ### Facultad de Derecho de la Universidad de Palermo
 
 Profesor titular IV
@@ -145,23 +144,53 @@ JTP por concurso
 
 Ciudad de Buenos Aires, Argentina
 
-- Acceso a la Justicia y Litigio Constitucional (2020)
-- Elementos de Derecho Constitucional (2001 - 2004)
+2020 - Actualidad
 
+- Acceso a la Justicia y Litigio Constitucional (2020/2021/2022/2023). Link al minisitio [accesojusticia](https://accesojusticia2023.netlify.app)
+  
+###  Facultad de Derecho de la Universidad de Buenos Aires
+
+JTP interino
+
+Ciudad de Buenos Aires, Argentina
+
+2001 - 2004
+
+- Elementos de Derecho Constitucional 
+
+
+### Escuela Latinoamericana de Activismo Comunitario (ELAC)
+
+Introducción a la Ciencia de Datos
+
+ELAC
+
+2022 - 2023
+
+Profesor junto a Antonio Vázquez Brust de Ciencia de Datos para activistas jurídicos: Descarga, analisis, graficas, mapas, modelado estadístico y analisis de texto. [Manual](https://cdaj.netlify.app/)
 
 
 Experiencia profesional {data-icon=suitcase}
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+### Secretaría Letrada contra la Violencia Institucional
 
-### Instituto Nacional contra la Discriminación, el Racismo y la Xenofobia (INADI)
+Secretario
+
+Ciudad de Buenos Aires, Argentina
+
+2023 - Actualidad
+
+Area de Investigación y análisis de las políticas públicas contra la Violencia Institucional.
+
+### Instituto Nacional Contra la Discriminación, la Xenofobia y el Racismo (INADI) 
 
 Director de Asistencia a la Víctima
 
 Ciudad de Buenos Aires, Argentina
 
-2020 – Actualidad 
+2020 – 2023 
 
-A cargo de la Dirección de Asistencia a la Víctima, encargada de la recepción, evaluación y dictámenes sobre las denuncias por discriminación que presenten las personas ante el INADI.
+Responsable de la Dirección	que tiene por objeto el asesoramiento, contención, tramitación y dictámenes de las denuncias que realizan las 	víctimas de discriminación de nuestro país. Cargo equivalente a Director Nacional.
 
 
 ### Defensoría General de la Ciudad Autónoma de Buenos Aires 
@@ -257,8 +286,21 @@ Ciudad de Buenos Aires
 Investigación sobre el funcionamiento de los Consejos de la Magistratura en America Latina.
 
 
+<!-- Consultorías {data-icon=globe} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### World Bank Group -->
+
+<!-- Indigenous Peoples Resilience -->
+
+<!-- Estados Unidos -->
+
+<!-- 2022 - 2023 -->
+
+<!-- Consultoría sobre estándares de derechos humanos y mecanismos institucionales que favorecen la resiliencia de los Pueblos Indígenas -->
+
 Publicaciones {data-icon=file}
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 ### La discriminación en el mercado. 
 
 Ian Ayres y los estudios empíricos sobre desigualdad.
@@ -273,45 +315,48 @@ Demián Zayat (editor y traductor)
 ::: aside
 Libros
 :::
-
 ### Niñez y adolescencia en contexto de migración: hacia una perspectiva integral de derechos
 
-Silvia Fernández (dir), Tratado de derechos de niñas, niños y adolescentes, 2da. edición actualizada y ampliada- Tomo 1.
+Silvia Fernández (dir), Tratado de derechos de niñas, niños y adolescentes, 2da edición actualizada y ampliada, Tomo 1, 
 
-Abeledo Perrot
+Editorial Abeledo Perrot
 
 2021
+
+Junto a Agostina Hernández Bologna y Martín Fernández Oteiza
 
 ::: aside
 Capítulos de libros
 :::
 
-### Un nuevo giro en la política migratoria que pone en riesgo la vigencia de los derechos de  niños, niñas y adolescentes.
+### Migraciones y Niñez a 30 años de la CDN. Un nuevo giro en la política migratoria que pone en riesgo la vigencia de los derechos de niños, niñas y adolescentes
 
-Herrero Marisa y otros (dirs), Avances, críticas y desafíos de los derechos humanos de niños, niñas y adolescentes a 30 años de la CDN".
+Herrero Marisa y otros (directoria), Avances, críticas y desafíos de los derechos humanos de niños, niñas y adolescentes a 30 años de la CDN”, 
 
 Ediar Editora
 
 2019
 
-### Comentario Art. 75 inciso 23
+junto a Martín Fernández Oteiza
 
-Gargarella- Guidi (dirs), Constitución de la Nación Argentina Comentada, Tomo 2
+### Comentario del artículo 75 inciso 23
 
-Abeledo Perrot
+Gargarella-Guidi (directores), Constitución de la Nación Argentina comentada, Tomo II
+
+Ed. Abeledo Perrot
+
+2019
+
+### Comentario del artículo 39 y 40
+
+Gargarella-Guidi (directores), Constitución de la Nación Argentina comentada, Tomo I.
+
+Ed. Abeledo Perrot
 
 2019
 
-### Comentario Art. 39 y 40
-
-Gargarella- Guidi (dirs), Constitución de la Nación Argentina Comentada, Tomo 1
-
-Abeledo Perrot
-
-2019
 
 ### Principio de Igualdad en la Ciudad de Buenos Aires 
-
 Azrak (coord), Pensar la Ciudad 	
 
 Librería Editora Platense
@@ -320,7 +365,6 @@ Librería Editora Platense
 
 
 ### Derechos de las personas migrantes en la Ciudad de Buenos Aires
-
 Azrak (coord), 	Pensar la Ciudad
 
 Librería Editora Platense
@@ -328,7 +372,6 @@ Librería Editora Platense
 2018
 
 ### Nuevos mecanismos de participacion democrática
-
 Gargarella – Guidi (comp) Comentarios de la Constitucion de la Nación Argentina
 
 Abeledo Perrot, Buenos Aires
@@ -408,6 +451,40 @@ Ediciones del Instituto, INECIP
 con Sebastian Tedeschi y otros.
 
 
+### Assessing the Impact of Contextual Information in Hate Speech 	Detection
+
+Revista IEEE, Perez J.M. y otros 
+
+DOI:	10.1109/ACCESS.2023.3258973
+
+2023
+
+Como parte del proyecto  PIUBAMAS-2020-3 y  PIUBA-2022-04-02, de la UBA para 	investigación interdisciplinaria. Publiación con referato internacional.  https://ieeexplore.ieee.org/document/10076443 23/03/2023.
+
+
+:::aside
+Revistas Jurídicas
+:::
+
+### La crisis económica 	como defensa frente a despidos discriminatorios: la peligrosa puerta que trajo el caso Fontana” 
+
+Revista AB, Revista de Abogacía de la Universidad Nacional de José C. Paz
+
+Jose C. Paz
+
+2021
+
+Número 	9
+
+### “El requisito de DNI para inscribirse en la universidad: un nuevo freno al derecho 	antidiscriminatorio. Comentario al fallo Costa Ludeña”, 
+La Ley Online
+
+Revista La Ley
+
+2022
+
+LALEY AR/DOC/393/2022
+
 
 ### Revista de Derecho de Familia Thomson Reuters N° 2017-V, mes de Octubre
 
@@ -418,24 +495,24 @@ La Ley AP/DOC/749/2017.
 2017
 
 
-:::aside
-Revistas Jurídicas
-:::
-
 ### Revista Jurídica de la Universidad de Palermo
 “Pobres merecedores y no merecedores de ayuda estatal. La jurisprudencia delTribunal Superior de Justicia de la Ciudad en materia Habitacional analizada desde la Teoría de la Justicia de Rawls”,
 
-Año 15, Nro 1,
+Universidad de Palermo
 
-mayo de 2017.
+2017
+
+Año 15, Nro 1
 
 
 ### Revista AB, Abogacía, de la Universidad Nacional de José C. Paz, 
 ““Y para (algunos de) los hombres del mundo que quieran habitar el suelo argentino”. El retroceso en la política migratoria”, 
 
-Nro 1. 
+José C. Paz
 
-Mayo de 2017.
+2017
+
+Nro 1. 
 
 
 ### Revista Igualdad, Autonomía  Personal y Derechos Sociales, de la Asociación de Derecho Administrativo de la Ciudad de Buenos Aires
@@ -444,13 +521,15 @@ Mayo de 2017.
 
 sección En los zapatos de… 
 
-Abril de 2016. 
+2016 
 
 
 ### Revista La Ley
 Nota a fallo CSJN “Sisnero”, Hacia un definido derecho antidiscriminatorio
 
 Diario del 30-06-14
+
+2014
 
 ### Revista de Derecho Penal, Ediciones INFOJUS, Ministerio de Justicia de la Nación
 “La elección popular de los consejeros de la Magistratura, la reforma legal y el fallo 'Rizzo' de la Corte Suprema”
@@ -621,57 +700,95 @@ N°4, Vol 2
 Dirección de Tesis de Maestria
 -------------------------------------------------------------------
 
-### Casadiegos Martín, “La orientación sexual como criterio de exclusión para la donación de sangre en Colombia”
+### Casadiegos Martín
+
+“La orientación sexual como criterio de exclusión para la donación de sangre en Colombia”
 
 Universidad de Palermo 
 
-Nov 2014
+2014
 
-### Bottini Bulit, Alejandro “Medidas de acción positiva”
+### Bottini Bulit
+
+Alejandro “Medidas de acción positiva”
 
 Universidad de Palermo 
 
 2015
 
-### Diego Galeano, “El derecho de huelga”
+### Diego Galeano
+
+“El derecho de huelga”
 
 Universidad de Palermo 
 
 2019
 
+### Sabrina Tagtachian Sassone
 
+¿Es constitucional el requisito temporal de residencia legal exigido por el Estado Argentino a personas migrantes para acceder a prestaciones de la seguridad social?
+
+Universidad de Palermo
+
+2022/2023.
 
 Jurado de Tesis de Maestria
 -------------------------------------------------------------------
 
-### Fernández Valle, Mariano “Colectivos LGTBI acceso a derechos y matrimonio igualitario. Avances, tensiones y desafíos"
+### Fernández Valle, Mariano 
+
+“Colectivos LGTBI acceso a derechos y matrimonio igualitario. Avances, tensiones y desafíos"
 
 Universidad de Palermo
 
 2012
 
-### Cánepa, Guillermo Patricio, “La profundización de la crisis habitacional en la Ciudad de Buenos Aires. La deuda pendiente de la política pública”
+### Cánepa, Guillermo Patricio
+
+“La profundización de la crisis habitacional en la Ciudad de Buenos Aires. La deuda pendiente de la política pública”
 
 Universidad de Palermo
 
 2015
 
-### Ricardo Porto, “Tres visiones regulatorias de la libertad de expresión y el derecho a la información en el derecho constitucional latinoamericano”
+### Ricardo Porto
+
+“Tres visiones regulatorias de la libertad de expresión y el derecho a la información en el derecho constitucional latinoamericano”
 
 Universidad de Palermo
 
 2016
 
-### Mirep Corona, Bachir “Poder de reforma constitucional del congreso y su control de constitucionalidad: alcances y límites en el sistema jurídico colombiano”
+### Mirep Corona, Bachir 
+
+“Poder de reforma constitucional del congreso y su control de constitucionalidad: alcances y límites en el sistema jurídico colombiano”
 
 Universidad de Palermo
 
 2018
 
 
-### Verónica Marcó, "Necesidad de Reforma del proceso de amparo federal para adaptarlo a las necesidadesl del sistema constitucional y convencional argentino"
+### Verónica Marcó
+
+"Necesidad de Reforma del proceso de amparo federal para adaptarlo a las necesidadesl del sistema constitucional y convencional argentino"
 
 Universidad de Palermo
 
 2018
 
+### Tomás Arceo
+
+“Hacia una versión robusta del derecho a la vivienda en la ciudad de buenos aires. Crítica a la concepción mínima frente a los meramente pobres"
+
+Universidad de Palermo
+
+2021
+
+
+### Anabella Calvo
+
+“Niñes trans: a una década de poder decir quiénes son“
+
+Universidad de Palermo
+
+2021
